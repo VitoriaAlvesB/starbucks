@@ -1,8 +1,5 @@
 # Starbucks
 
-![GitHub repo size](https://github.com/VitoriaAlvesB/starbucks.git)
-![GitHub language count](https://github.com/VitoriaAlvesB/starbucks.git)
-
 <img src="/assets/img/layout-pc.png" alt="layout">
 
 > Este projeto é a pagina inicial de um starbucks, divulgando sua parceria com a cantora lady Gaga e seus novos cafés.
